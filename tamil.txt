@@ -5,4 +5,8 @@ kannada movies:
 Bell bottom
 Avane sriman narayana
 Rangitaranga
+<<<<<<< HEAD
 Lucia
+=======
+Ullidavaru Kantene
+>>>>>>> kannada_movies
