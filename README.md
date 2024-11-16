@@ -2,4 +2,4 @@
 
 ## Here I am listing all of my favourite movies.
 
-Go through the lists my `Movies list.
+Go through the lists my `Movies list`.
